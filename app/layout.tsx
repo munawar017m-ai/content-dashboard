@@ -81,24 +81,8 @@ export default function RootLayout({
                 </nav>
               </div>
 
-              {/* ✅ Bottom section with Settings */}
+              {/* ✅ Bottom section */}
               <div>
-                <a
-                  href="/settings"
-                  style={{
-                    display: "block",
-                    padding: "10px 12px",
-                    borderRadius: 6,
-                    textDecoration: "none",
-                    color: "white",
-                    background: "#1e293b",
-                    marginBottom: 12,
-                    textAlign: "center",
-                  }}
-                >
-                  ⚙️ Settings
-                </a>
-
                 <p style={{ fontSize: 12, opacity: 0.7, marginBottom: 0 }}>
                   © 2025 Content Dashboard
                 </p>
